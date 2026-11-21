@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Ship_Date,Region,Sales_Rep,Customer_Segment,Sales_Channel,Product_Category,Product_Name,Quantity,Unit_Price,Unit_Cost,Discount_Rate,Gross_Sales,Net_Revenue,Total_Cost,Profit,Profit_Margin_Pct,Payment_Method
+ORD-1001,2026-01-02,2026-01-07,Central,Aditya Verma,SMB,Direct Sales,Electronics,USB-C Hub,12,45.0,18.0,0.1,540.0,486.0,216.0,270.0,55.56,Credit Card
+ORD-1002,2026-01-09,2026-01-16,South,Ananya Reddy,Consumer,Online,Accessories,Webcam HD,22,70.0,32.0,0.05,1540.0,1463.0,704.0,759.0,51.88,Bank Transfer
+ORD-1003,2026-01-14,2026-01-20,Central,Aditya Verma,Enterprise,Online,Electronics,27-inch Monitor,7,260.0,165.0,0.05,1820.0,1729.0,1155.0,574.0,33.2,UPI
+ORD-1004,2026-01-15,2026-01-18,South,Karthik Nair,Consumer,Direct Sales,Accessories,Laptop Stand,10,40.0,16.0,0.0,400.0,400.0,160.0,240.0,60.0,Bank Transfer
+ORD-1005,2026-01-21,2026-01-22,North,Priya Patel,Enterprise,Online,Office Supplies,Whiteboard,19,60.0,28.0,0.0,1140.0,1140.0,532.0,608.0,53.33,Bank Transfer
+ORD-1006,2026-01-21,2026-01-26,South,Karthik Nair,Enterprise,Online,Accessories,Laptop Stand,7,40.0,16.0,0.15,280.0,238.0,112.0,126.0,52.94,UPI
+ORD-1007,2026-01-22,2026-01-24,East,Rohan Das,Enterprise,Direct Sales,Electronics,USB-C Hub,3,45.0,18.0,0.1,135.0,121.5,54.0,67.5,55.56,Bank Transfer
+ORD-1008,2026-01-28,2026-02-04,West,Vikram Joshi,Consumer,Partner,Office Supplies,Ergonomic Chair,13,220.0,130.0,0.2,2860.0,2288.0,1690.0,598.0,26.14,UPI
+ORD-1009,2026-02-02,2026-02-09,East,Sneha Roy,SMB,Direct Sales,Software,Analytics Add-on,13,150.0,25.0,0.2,1950.0,1560.0,325.0,1235.0,79.17,Bank Transfer
+ORD-1010,2026-02-04,2026-02-10,South,Karthik Nair,SMB,Direct Sales,Electronics,Wireless Mouse,18,25.0,12.0,0.05,450.0,427.5,216.0,211.5,49.47,UPI
+ORD-1011,2026-02-04,2026-02-11,East,Sneha Roy,SMB,Online,Electronics,USB-C Hub,20,45.0,18.0,0.1,900.0,810.0,360.0,450.0,55.56,Credit Card
+ORD-1012,2026-02-10,2026-02-13,East,Rohan Das,Consumer,Online,Accessories,Laptop Stand,8,40.0,16.0,0.15,320.0,272.0,128.0,144.0,52.94,Invoice
+ORD-1013,2026-02-10,2026-02-11,North,Aarav Sharma,SMB,Direct Sales,Software,Security Suite,9,90.0,15.0,0.1,810.0,729.0,135.0,594.0,81.48,UPI
+ORD-1014,2026-02-13,2026-02-20,South,Karthik Nair,Consumer,Online,Electronics,Wireless Mouse,7,25.0,12.0,0.0,175.0,175.0,84.0,91.0,52.0,UPI
+ORD-1015,2026-02-17,2026-02-24,North,Priya Patel,SMB,Online,Office Supplies,Ergonomic Chair,1,220.0,130.0,0.05,220.0,209.0,130.0,79.0,37.8,Invoice
+ORD-1016,2026-02-18,2026-02-20,West,Vikram Joshi,SMB,Online,Office Supplies,Standing Desk,3,450.0,280.0,0.0,1350.0,1350.0,840.0,510.0,37.78,UPI
+ORD-1017,2026-02-19,2026-02-21,East,Rohan Das,SMB,Online,Software,Cloud Storage Plan,13,120.0,20.0,0.2,1560.0,1248.0,260.0,988.0,79.17,UPI
+ORD-1018,2026-02-20,2026-02-24,Central,Kavita Gupta,SMB,Online,Electronics,Mechanical Keyboard,17,85.0,42.0,0.05,1445.0,1372.75,714.0,658.75,47.99,Bank Transfer
+ORD-1019,2026-02-22,2026-02-27,South,Karthik Nair,SMB,Online,Electronics,Wireless Mouse,24,25.0,12.0,0.0,600.0,600.0,288.0,312.0,52.0,Invoice
+ORD-1020,2026-02-22,2026-02-25,West,Meera Shah,SMB,Online,Electronics,USB-C Hub,1,45.0,18.0,0.1,45.0,40.5,18.0,22.5,55.56,Credit Card
+ORD-1021,2026-02-23,2026-03-02,West,Meera Shah,Enterprise,Online,Office Supplies,Desk Lamp,6,35.0,15.0,0.05,210.0,199.5,90.0,109.5,54.89,UPI
+ORD-1022,2026-02-24,2026-03-03,North,Aarav Sharma,Consumer,Partner,Software,Cloud Storage Plan,21,120.0,20.0,0.0,2520.0,2520.0,420.0,2100.0,83.33,Invoice
+ORD-1023,2026-02-28,2026-03-01,East,Sneha Roy,SMB,Direct Sales,Electronics,27-inch Monitor,6,260.0,165.0,0.0,1560.0,1560.0,990.0,570.0,36.54,Bank Transfer
+ORD-1024,2026-03-03,2026-03-07,West,Vikram Joshi,SMB,Direct Sales,Accessories,Laptop Stand,12,40.0,16.0,0.1,480.0,432.0,192.0,240.0,55.56,Credit Card
+ORD-1025,2026-03-04,2026-03-09,Central,Kavita Gupta,Consumer,Direct Sales,Office Supplies,Ergonomic Chair,13,220.0,130.0,0.05,2860.0,2717.0,1690.0,1027.0,37.8,Invoice
+ORD-1026,2026-03-06,2026-03-10,South,Ananya Reddy,SMB,Online,Electronics,USB-C Hub,13,45.0,18.0,0.1,585.0,526.5,234.0,292.5,55.56,Credit Card
+ORD-1027,2026-03-13,2026-03-19,North,Aarav Sharma,Enterprise,Online,Electronics,27-inch Monitor,15,260.0,165.0,0.05,3900.0,3705.0,2475.0,1230.0,33.2,Credit Card
+ORD-1028,2026-03-22,2026-03-27,West,Meera Shah,Consumer,Direct Sales,Electronics,Wireless Mouse,21,25.0,12.0,0.15,525.0,446.25,252.0,194.25,43.53,Credit Card
+ORD-1029,2026-03-22,2026-03-29,West,Meera Shah,SMB,Direct Sales,Accessories,Noise-Canceling Headset,16,130.0,65.0,0.05,2080.0,1976.0,1040.0,936.0,47.37,UPI
+ORD-1030,2026-03-29,2026-04-05,South,Ananya Reddy,SMB,Direct Sales,Software,Security Suite,22,90.0,15.0,0.05,1980.0,1881.0,330.0,1551.0,82.46,UPI
+ORD-1031,2026-03-30,2026-04-04,North,Priya Patel,Enterprise,Online,Office Supplies,Desk Lamp,21,35.0,15.0,0.15,735.0,624.75,315.0,309.75,49.58,Bank Transfer
+ORD-1032,2026-04-02,2026-04-09,Central,Kavita Gupta,Consumer,Online,Software,Analytics Add-on,11,150.0,25.0,0.05,1650.0,1567.5,275.0,1292.5,82.46,Bank Transfer
+ORD-1033,2026-04-09,2026-04-12,South,Karthik Nair,SMB,Online,Office Supplies,Standing Desk,5,450.0,280.0,0.0,2250.0,2250.0,1400.0,850.0,37.78,Invoice
+ORD-1034,2026-04-10,2026-04-15,East,Sneha Roy,SMB,Online,Software,Analytics Add-on,4,150.0,25.0,0.0,600.0,600.0,100.0,500.0,83.33,Bank Transfer
+ORD-1035,2026-04-13,2026-04-17,West,Vikram Joshi,Consumer,Direct Sales,Electronics,27-inch Monitor,3,260.0,165.0,0.1,780.0,702.0,495.0,207.0,29.49,Credit Card
+ORD-1036,2026-04-13,2026-04-18,West,Meera Shah,Consumer,Direct Sales,Office Supplies,Ergonomic Chair,19,220.0,130.0,0.05,4180.0,3971.0,2470.0,1501.0,37.8,Credit Card
+ORD-1037,2026-04-16,2026-04-23,West,Vikram Joshi,Enterprise,Online,Electronics,Wireless Mouse,20,25.0,12.0,0.1,500.0,450.0,240.0,210.0,46.67,UPI
+ORD-1038,2026-04-17,2026-04-20,North,Aarav Sharma,SMB,Partner,Electronics,USB-C Hub,18,45.0,18.0,0.0,810.0,810.0,324.0,486.0,60.0,Credit Card
+ORD-1039,2026-05-02,2026-05-05,East,Sneha Roy,Enterprise,Direct Sales,Electronics,27-inch Monitor,15,260.0,165.0,0.0,3900.0,3900.0,2475.0,1425.0,36.54,Invoice
+ORD-1040,2026-05-09,2026-05-15,West,Meera Shah,SMB,Online,Electronics,Wireless Mouse,9,25.0,12.0,0.0,225.0,225.0,108.0,117.0,52.0,Credit Card
+ORD-1041,2026-05-11,2026-05-15,North,Priya Patel,Enterprise,Online,Electronics,27-inch Monitor,17,260.0,165.0,0.0,4420.0,4420.0,2805.0,1615.0,36.54,Credit Card
+ORD-1042,2026-05-11,2026-05-13,North,Aarav Sharma,SMB,Online,Electronics,USB-C Hub,14,45.0,18.0,0.05,630.0,598.5,252.0,346.5,57.89,Invoice
+ORD-1043,2026-05-15,2026-05-17,Central,Kavita Gupta,Consumer,Online,Accessories,Laptop Stand,15,40.0,16.0,0.0,600.0,600.0,240.0,360.0,60.0,Bank Transfer
+ORD-1044,2026-05-15,2026-05-20,East,Rohan Das,Consumer,Online,Electronics,27-inch Monitor,1,260.0,165.0,0.05,260.0,247.0,165.0,82.0,33.2,Bank Transfer
+ORD-1045,2026-05-16,2026-05-22,South,Karthik Nair,SMB,Online,Electronics,Wireless Mouse,21,25.0,12.0,0.15,525.0,446.25,252.0,194.25,43.53,Invoice
+ORD-1046,2026-05-19,2026-05-20,Central,Aditya Verma,Consumer,Online,Software,Analytics Add-on,22,150.0,25.0,0.0,3300.0,3300.0,550.0,2750.0,83.33,UPI
+ORD-1047,2026-05-30,2026-06-04,Central,Kavita Gupta,Enterprise,Online,Accessories,Laptop Stand,22,40.0,16.0,0.05,880.0,836.0,352.0,484.0,57.89,Credit Card
+ORD-1048,2026-06-01,2026-06-07,East,Sneha Roy,Consumer,Partner,Electronics,USB-C Hub,3,45.0,18.0,0.1,135.0,121.5,54.0,67.5,55.56,Invoice
+ORD-1049,2026-06-06,2026-06-10,Central,Aditya Verma,Enterprise,Online,Office Supplies,Ergonomic Chair,16,220.0,130.0,0.0,3520.0,3520.0,2080.0,1440.0,40.91,Credit Card
+ORD-1050,2026-06-10,2026-06-14,North,Aarav Sharma,SMB,Direct Sales,Software,Cloud Storage Plan,23,120.0,20.0,0.05,2760.0,2622.0,460.0,2162.0,82.46,UPI
+ORD-1051,2026-06-11,2026-06-15,South,Ananya Reddy,Consumer,Online,Electronics,Mechanical Keyboard,11,85.0,42.0,0.15,935.0,794.75,462.0,332.75,41.87,Credit Card
+ORD-1052,2026-06-12,2026-06-16,West,Vikram Joshi,Enterprise,Partner,Accessories,Webcam HD,12,70.0,32.0,0.15,840.0,714.0,384.0,330.0,46.22,Invoice
+ORD-1053,2026-06-16,2026-06-20,West,Meera Shah,Enterprise,Online,Accessories,Noise-Canceling Headset,10,130.0,65.0,0.0,1300.0,1300.0,650.0,650.0,50.0,Credit Card
+ORD-1054,2026-06-19,2026-06-25,Central,Aditya Verma,SMB,Online,Electronics,Mechanical Keyboard,16,85.0,42.0,0.15,1360.0,1156.0,672.0,484.0,41.87,Bank Transfer
+ORD-1055,2026-06-21,2026-06-27,South,Ananya Reddy,SMB,Partner,Electronics,USB-C Hub,8,45.0,18.0,0.05,360.0,342.0,144.0,198.0,57.89,UPI
+ORD-1056,2026-06-24,2026-06-27,Central,Aditya Verma,SMB,Partner,Accessories,Webcam HD,6,70.0,32.0,0.0,420.0,420.0,192.0,228.0,54.29,UPI
+ORD-1057,2026-07-07,2026-07-09,Central,Kavita Gupta,SMB,Partner,Office Supplies,Ergonomic Chair,12,220.0,130.0,0.05,2640.0,2508.0,1560.0,948.0,37.8,UPI
+ORD-1058,2026-07-07,2026-07-14,Central,Aditya Verma,SMB,Online,Office Supplies,Desk Lamp,24,35.0,15.0,0.2,840.0,672.0,360.0,312.0,46.43,Invoice
+ORD-1059,2026-07-08,2026-07-12,West,Meera Shah,Enterprise,Online,Software,Analytics Add-on,21,150.0,25.0,0.05,3150.0,2992.5,525.0,2467.5,82.46,UPI
+ORD-1060,2026-07-09,2026-07-10,West,Meera Shah,SMB,Direct Sales,Software,Cloud Storage Plan,8,120.0,20.0,0.0,960.0,960.0,160.0,800.0,83.33,Bank Transfer
+ORD-1061,2026-07-09,2026-07-16,East,Rohan Das,Enterprise,Partner,Accessories,Noise-Canceling Headset,4,130.0,65.0,0.05,520.0,494.0,260.0,234.0,47.37,Invoice
+ORD-1062,2026-07-10,2026-07-16,South,Karthik Nair,Consumer,Direct Sales,Accessories,Noise-Canceling Headset,8,130.0,65.0,0.0,1040.0,1040.0,520.0,520.0,50.0,Bank Transfer
+ORD-1063,2026-07-11,2026-07-12,Central,Kavita Gupta,SMB,Direct Sales,Accessories,Webcam HD,18,70.0,32.0,0.0,1260.0,1260.0,576.0,684.0,54.29,Credit Card
+ORD-1064,2026-07-20,2026-07-21,Central,Aditya Verma,SMB,Online,Software,Analytics Add-on,5,150.0,25.0,0.0,750.0,750.0,125.0,625.0,83.33,Credit Card
+ORD-1065,2026-07-21,2026-07-22,South,Ananya Reddy,SMB,Direct Sales,Accessories,Laptop Stand,9,40.0,16.0,0.0,360.0,360.0,144.0,216.0,60.0,Credit Card
+ORD-1066,2026-07-25,2026-07-28,South,Karthik Nair,Consumer,Online,Software,Security Suite,4,90.0,15.0,0.0,360.0,360.0,60.0,300.0,83.33,Credit Card
+ORD-1067,2026-07-27,2026-08-02,East,Sneha Roy,Enterprise,Online,Office Supplies,Standing Desk,22,450.0,280.0,0.0,9900.0,9900.0,6160.0,3740.0,37.78,Bank Transfer
+ORD-1068,2026-08-01,2026-08-02,South,Ananya Reddy,SMB,Online,Electronics,27-inch Monitor,17,260.0,165.0,0.05,4420.0,4199.0,2805.0,1394.0,33.2,Invoice
+ORD-1069,2026-08-02,2026-08-06,Central,Kavita Gupta,SMB,Direct Sales,Accessories,Laptop Stand,9,40.0,16.0,0.0,360.0,360.0,144.0,216.0,60.0,Invoice
+ORD-1070,2026-08-03,2026-08-08,North,Priya Patel,SMB,Online,Accessories,Laptop Stand,1,40.0,16.0,0.0,40.0,40.0,16.0,24.0,60.0,UPI
+ORD-1071,2026-08-03,2026-08-04,North,Priya Patel,Enterprise,Online,Software,Security Suite,21,90.0,15.0,0.15,1890.0,1606.5,315.0,1291.5,80.39,Bank Transfer
+ORD-1072,2026-08-04,2026-08-07,East,Sneha Roy,Consumer,Direct Sales,Accessories,Noise-Canceling Headset,20,130.0,65.0,0.05,2600.0,2470.0,1300.0,1170.0,47.37,Credit Card
+ORD-1073,2026-08-05,2026-08-12,North,Aarav Sharma,Consumer,Online,Software,Security Suite,13,90.0,15.0,0.1,1170.0,1053.0,195.0,858.0,81.48,Bank Transfer
+ORD-1074,2026-08-06,2026-08-12,South,Karthik Nair,SMB,Direct Sales,Electronics,Wireless Mouse,16,25.0,12.0,0.0,400.0,400.0,192.0,208.0,52.0,UPI
+ORD-1075,2026-08-15,2026-08-18,West,Vikram Joshi,SMB,Online,Electronics,27-inch Monitor,13,260.0,165.0,0.0,3380.0,3380.0,2145.0,1235.0,36.54,UPI
+ORD-1076,2026-08-19,2026-08-20,West,Meera Shah,Consumer,Online,Electronics,Mechanical Keyboard,14,85.0,42.0,0.0,1190.0,1190.0,588.0,602.0,50.59,Bank Transfer
+ORD-1077,2026-08-24,2026-08-30,South,Ananya Reddy,SMB,Direct Sales,Office Supplies,Ergonomic Chair,3,220.0,130.0,0.0,660.0,660.0,390.0,270.0,40.91,Bank Transfer
+ORD-1078,2026-08-25,2026-08-30,East,Sneha Roy,Enterprise,Online,Electronics,Mechanical Keyboard,6,85.0,42.0,0.0,510.0,510.0,252.0,258.0,50.59,Bank Transfer
+ORD-1079,2026-08-30,2026-08-31,East,Sneha Roy,SMB,Online,Software,Analytics Add-on,18,150.0,25.0,0.0,2700.0,2700.0,450.0,2250.0,83.33,Invoice
+ORD-1080,2026-09-01,2026-09-04,East,Rohan Das,SMB,Online,Electronics,Mechanical Keyboard,19,85.0,42.0,0.0,1615.0,1615.0,798.0,817.0,50.59,Credit Card
+ORD-1081,2026-09-09,2026-09-11,South,Karthik Nair,SMB,Online,Software,Security Suite,5,90.0,15.0,0.0,450.0,450.0,75.0,375.0,83.33,Bank Transfer
+ORD-1082,2026-09-09,2026-09-13,East,Sneha Roy,SMB,Partner,Office Supplies,Ergonomic Chair,15,220.0,130.0,0.05,3300.0,3135.0,1950.0,1185.0,37.8,Bank Transfer
+ORD-1083,2026-09-10,2026-09-17,Central,Aditya Verma,Consumer,Online,Software,Cloud Storage Plan,2,120.0,20.0,0.0,240.0,240.0,40.0,200.0,83.33,Bank Transfer
+ORD-1084,2026-09-15,2026-09-18,East,Rohan Das,Consumer,Partner,Electronics,Wireless Mouse,10,25.0,12.0,0.0,250.0,250.0,120.0,130.0,52.0,UPI
+ORD-1085,2026-09-17,2026-09-23,Central,Kavita Gupta,SMB,Online,Electronics,Mechanical Keyboard,24,85.0,42.0,0.05,2040.0,1938.0,1008.0,930.0,47.99,UPI
+ORD-1086,2026-09-18,2026-09-19,South,Karthik Nair,Enterprise,Direct Sales,Office Supplies,Desk Lamp,18,35.0,15.0,0.1,630.0,567.0,270.0,297.0,52.38,Invoice
+ORD-1087,2026-09-21,2026-09-25,South,Ananya Reddy,Consumer,Direct Sales,Software,Cloud Storage Plan,13,120.0,20.0,0.0,1560.0,1560.0,260.0,1300.0,83.33,Credit Card
+ORD-1088,2026-09-22,2026-09-23,East,Rohan Das,Consumer,Direct Sales,Electronics,Wireless Mouse,5,25.0,12.0,0.1,125.0,112.5,60.0,52.5,46.67,Invoice
+ORD-1089,2026-09-25,2026-10-01,West,Meera Shah,Enterprise,Online,Accessories,Webcam HD,23,70.0,32.0,0.05,1610.0,1529.5,736.0,793.5,51.88,Credit Card
+ORD-1090,2026-09-27,2026-09-28,Central,Kavita Gupta,Consumer,Online,Electronics,27-inch Monitor,24,260.0,165.0,0.0,6240.0,6240.0,3960.0,2280.0,36.54,UPI
+ORD-1091,2026-09-28,2026-09-30,North,Priya Patel,Consumer,Online,Office Supplies,Ergonomic Chair,1,220.0,130.0,0.15,220.0,187.0,130.0,57.0,30.48,UPI
+ORD-1092,2026-09-28,2026-10-02,East,Sneha Roy,SMB,Partner,Accessories,Noise-Canceling Headset,22,130.0,65.0,0.15,2860.0,2431.0,1430.0,1001.0,41.18,UPI
+ORD-1093,2026-09-28,2026-10-02,East,Rohan Das,SMB,Partner,Office Supplies,Desk Lamp,1,35.0,15.0,0.0,35.0,35.0,15.0,20.0,57.14,Invoice
+ORD-1094,2026-10-01,2026-10-07,West,Meera Shah,SMB,Partner,Office Supplies,Ergonomic Chair,18,220.0,130.0,0.0,3960.0,3960.0,2340.0,1620.0,40.91,Bank Transfer
+ORD-1095,2026-10-04,2026-10-11,North,Priya Patel,Enterprise,Online,Office Supplies,Ergonomic Chair,15,220.0,130.0,0.1,3300.0,2970.0,1950.0,1020.0,34.34,Bank Transfer
+ORD-1096,2026-10-07,2026-10-09,Central,Kavita Gupta,SMB,Direct Sales,Office Supplies,Whiteboard,17,60.0,28.0,0.1,1020.0,918.0,476.0,442.0,48.15,UPI
+ORD-1097,2026-10-16,2026-10-19,East,Rohan Das,Consumer,Partner,Software,Security Suite,11,90.0,15.0,0.0,990.0,990.0,165.0,825.0,83.33,Bank Transfer
+ORD-1098,2026-10-20,2026-10-21,South,Ananya Reddy,Enterprise,Online,Electronics,27-inch Monitor,21,260.0,165.0,0.0,5460.0,5460.0,3465.0,1995.0,36.54,Bank Transfer
+ORD-1099,2026-10-21,2026-10-26,Central,Aditya Verma,SMB,Online,Electronics,USB-C Hub,22,45.0,18.0,0.0,990.0,990.0,396.0,594.0,60.0,Invoice
+ORD-1100,2026-10-23,2026-10-24,West,Meera Shah,SMB,Direct Sales,Office Supplies,Desk Lamp,17,35.0,15.0,0.05,595.0,565.25,255.0,310.25,54.89,Credit Card
